@@ -1,0 +1,7 @@
+cinza primeiro
+vermelho segundo
+verde
+amarelo
+roxo
+preto
+branco
